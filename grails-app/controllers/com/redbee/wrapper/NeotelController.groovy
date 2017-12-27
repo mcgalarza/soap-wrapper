@@ -8,6 +8,6 @@ class NeotelController {
 
     def callNeotel() {
 
-        render ('call neotel' as JSON)
+        render ([content: "call neotel"] as JSON)
     }
 }
