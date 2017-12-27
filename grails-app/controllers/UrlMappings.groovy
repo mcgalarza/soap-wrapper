@@ -1,13 +1,10 @@
 class UrlMappings {
 
     static mappings = {
-//        "/$controller/$action?/$id?(.$format)?"{
-//
-//        }
 
 
         group "/api", {
-        "/neotel"(controller: 'neotel', method: 'POST', action: 'callNeotel')
+            "/neotel"(controller: 'neotel', action: 'callNeotel' , method: 'GET')
 
         }
 
