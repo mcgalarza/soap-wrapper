@@ -1416,16 +1416,16 @@
       <option name="number" value="Default" />
       <updated>1514303732459</updated>
       <workItem from="1514303733903" duration="11472000" />
-      <workItem from="1514385393543" duration="9775000" />
+      <workItem from="1514385393543" duration="9840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21247000" />
+    <option name="totallyTimeSpent" value="21312000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="743" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1366" height="743" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
