@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SOAPWrapper.iml" filepath="$PROJECT_DIR$/SOAPWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SOAPWrapper_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SOAPWrapper_integrationTest.iml" group="SOAPWrapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SOAPWrapper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SOAPWrapper_main.iml" group="SOAPWrapper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SOAPWrapper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SOAPWrapper_test.iml" group="SOAPWrapper" />
+    </modules>
+  </component>
+</project>
