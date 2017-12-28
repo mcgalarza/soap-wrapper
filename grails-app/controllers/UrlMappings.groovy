@@ -4,7 +4,7 @@ class UrlMappings {
 
 
         group "/api", {
-            "/neotel"(controller: 'neotel', action: 'callNeotel' , method: 'PUT')
+            "/neotel"(controller: 'neotel', action: 'callNeotel' , method: 'POST')
 
         }
 
