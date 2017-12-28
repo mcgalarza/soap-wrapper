@@ -4,10 +4,14 @@ import grails.converters.JSON
 
 class NeotelController {
 
-    static allowedMethods = [callNeotel:'GET']
+    static allowedMethods = [callNeotel:'POST']
+
+    def neotelService
 
     def callNeotel() {
 
-        render ([content: "call neotel"] as JSON)
+        return r(neotelService.serviceMethod())
+
+//        render ([content: "call neotel"] as JSON)
     }
 }
