@@ -6,12 +6,12 @@ class NeotelController {
 
     static allowedMethods = [callNeotel:'POST']
 
-    def neotelService
+    NeotelService neotelService
 
     def callNeotel() {
 
-        return r(neotelService.serviceMethod())
+        def body = request.JSON
 
-//        render ([content: "call neotel"] as JSON)
+        render(neotelService.serviceMethod(body) as JSON)
     }
 }
